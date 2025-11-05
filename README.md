@@ -63,6 +63,7 @@ SecureBridgefinance/
 3. **Minimalist Home Design** (Home & Garden - Apr 2025)
 4. **Travel Insurance Guide** (Finance & Insurance - Jun 2025)
 5. **Specialty Coffee at Home** (Food & Beverage - Aug 2025)
+6. **Miliboo's Warm & Modern Furniture Designs** (Home & Garden - Oct 2025)
 
 ## Design Philosophy
 
